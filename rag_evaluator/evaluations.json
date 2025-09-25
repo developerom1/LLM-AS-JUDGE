@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "evaluation": {
+      "correctness": {
+        "score": 5,
+        "reasoning": "Answer is factually accurate."
+      },
+      "completeness": {
+        "score": 4,
+        "reasoning": "Covers the main point but lacks additional context."
+      },
+      "relevance": {
+        "score": 5,
+        "reasoning": "Directly answers the question."
+      }
+    }
+  },
+  {
+    "id": 2,
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "evaluation": {
+      "correctness": {
+        "score": 5,
+        "reasoning": "Correct author."
+      },
+      "completeness": {
+        "score": 5,
+        "reasoning": "Complete match."
+      },
+      "relevance": {
+        "score": 5,
+        "reasoning": "Highly relevant."
+      }
+    }
+  },
+  {
+    "id": 3,
+    "question": "What is the boiling point of water?",
+    "evaluation": {
+      "correctness": {
+        "score": 2,
+        "reasoning": "Incorrect boiling point."
+      },
+      "completeness": {
+        "score": 3,
+        "reasoning": "Missing pressure context."
+      },
+      "relevance": {
+        "score": 5,
+        "reasoning": "Answers the question but wrongly."
+      }
+    }
+  }
+]

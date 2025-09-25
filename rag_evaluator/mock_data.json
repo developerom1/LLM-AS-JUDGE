@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "rag_answer": "The capital of France is Paris.",
+      "ground_truth": "Paris is the capital city of France."
+    },
+    {
+      "id": 2,
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "rag_answer": "Jane Austen wrote 'Pride and Prejudice'.",
+      "ground_truth": "'Pride and Prejudice' was written by Jane Austen."
+    },
+    {
+      "id": 3,
+      "question": "What is the boiling point of water?",
+      "rag_answer": "Water boils at 90 degrees Celsius.",
+      "ground_truth": "Water boils at 100 degrees Celsius at standard atmospheric pressure."
+    }
+  ]
+}
